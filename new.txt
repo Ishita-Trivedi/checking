@@ -1,1 +1,3 @@
-fwew thinga
+few things
+commit init 
+
